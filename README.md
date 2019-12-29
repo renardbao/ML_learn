@@ -1,3 +1,3 @@
 # ML learn
-1. [ch02](https://renardbao.github.io/ML_learn/ml_learning_ch02.html)
-2. [ch03](https://renardbao.github.io/ML_learn/ml_learning_ch03.html)
+1. [ch02](https://github.com/renardbao/ML_learn/blob/master/ml_learning_ch02.ipynb)
+2. [ch03](https://github.com/renardbao/ML_learn/blob/master/ml_learning_ch03.ipynb)

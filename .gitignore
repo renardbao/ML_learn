@@ -1,7 +1,8 @@
 .ipynb_checkpoints/
 .Rproj.user
-pynote.Rproj
+Rcode.Rproj
 .Rhistory
 .git
 .ipynb_checkpoints
 example/
+data/
